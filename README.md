@@ -4,6 +4,7 @@
 
 - <b>Active Directory: Domain Controller/Client Setup Using VM's</b>
   - [Active Directory Setup](https://github.com/ervtripp/ActiveDirectoryLab/tree/main)
+  - [Splunk Lab - Input Data & Dashboards](https://github.com/ervtripp/SplunkLab1/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>

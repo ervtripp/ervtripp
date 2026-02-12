@@ -1,4 +1,4 @@
-<h1>Hi, I'm Erving! <br/><a href="https://github.com/ervtripp"></a><a href="https://www.linkedin.com/in/isiah-tripp-833478214/">Student at California Institute of Applied Technology - Cloud Administration </a>
+<h1>Hi, I'm Erving! <br/><a href="https://github.com/ervtripp"></a><a href="https://www.linkedin.com/in/isiah-tripp-833478214/">Student at California Institute of Applied Technology - Currently Hold AAS - Information Technology </a>
 
 <h2>👨‍💻 Lab Projects:</h2>
 

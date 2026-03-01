@@ -6,7 +6,7 @@
   - [Active Directory Setup](https://github.com/ervtripp/ActiveDirectoryLab/tree/main)
   - [Splunk Lab - Input Data & Dashboards](https://github.com/ervtripp/SplunkLab1/tree/main)
   - [Basic LAN Setup](https://github.com/ervtripp/Basic-LAN-Setup/tree/main)
-  - [Microsoft Entra ID User Creation](https://github.com/ervtripp/Microsoft-Entra-ID-Tenant-User-Creation/tree/main)
+  - [Microsoft Entra ID User Creation](https://github.com/ervtripp/Microsoft-Entra-ID-Tenant-User-Creation/)
 /tree/main)
 
 

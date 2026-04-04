@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Lab Projects:</h2>
 
-- <b>Active Directory: Domain Controller/Client Setup Using VM's</b>
+- <b>AD, Security, Networking</b>
   - [Active Directory Setup](https://github.com/ervtripp/ActiveDirectoryLab/tree/main)
   - [Splunk Lab - Input Data & Dashboards](https://github.com/ervtripp/SplunkLab1/tree/main)
   - [Basic LAN Setup](https://github.com/ervtripp/Basic-LAN-Setup/tree/main)

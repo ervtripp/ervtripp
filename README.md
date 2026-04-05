@@ -3,10 +3,12 @@
 <h2>👨‍💻 Lab Projects:</h2>
 
 - <b>AD, Security, Networking</b>
+  - [AWS Networking Lab: Public & Private Subnet](https://github.com/ervtripp/AWS-Lab-VPC-with-Public-Private-Subnet-With-Test-/tree/main)
   - [Active Directory Setup](https://github.com/ervtripp/ActiveDirectoryLab/tree/main)
   - [Splunk Lab - Input Data & Dashboards](https://github.com/ervtripp/SplunkLab1/tree/main)
   - [Basic LAN Setup](https://github.com/ervtripp/Basic-LAN-Setup/tree/main)
   - [Microsoft Entra ID User Creation](https://github.com/ervtripp/Microsoft-Entra-ID-Tenant-User-Creation/)
+    
 
 
 <h2> 🤳 Connect with me:</h2>

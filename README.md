@@ -4,6 +4,7 @@
 
 - <b>AD, Security, Networking</b>
   - [AWS Networking Lab: Public & Private Subnet](https://github.com/ervtripp/AWS-Lab-VPC-with-Public-Private-Subnet-With-Test-/tree/main)
+      - [AWS Networking Lab - Plublic & Private Subnet](https://github.com/ervtripp/AWS-Networking-Lab-NACL-vs-Security-Group-ICMP-Traffic-Control-)
   - [Active Directory Setup](https://github.com/ervtripp/ActiveDirectoryLab/tree/main)
   - [Splunk Lab - Input Data & Dashboards](https://github.com/ervtripp/SplunkLab1/tree/main)
   - [Basic LAN Setup](https://github.com/ervtripp/Basic-LAN-Setup/tree/main)

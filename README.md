@@ -2,14 +2,15 @@
 
 <h2>👨‍💻 Lab Projects:</h2>
 
-- <b>AD, Security, Networking</b>
+- <b>Networking</b>
   - [AWS Networking Lab: Public & Private Subnet: Part 1](https://github.com/ervtripp/AWS-Lab-VPC-with-Public-Private-Subnet-With-Test-/tree/main)
       - [AWS Networking Lab - Public & Private Subnet: Part 2 NACL vs Security Group (ICMP Traffic Control)](https://github.com/ervtripp/AWS-Networking-Lab-NACL-vs-Security-Group-ICMP-Traffic-Control-)
-  - [Active Directory Setup](https://github.com/ervtripp/ActiveDirectoryLab/tree/main)
-  - [Splunk Lab - Input Data & Dashboards](https://github.com/ervtripp/SplunkLab1/tree/main)
   - [Basic LAN Setup](https://github.com/ervtripp/Basic-LAN-Setup/tree/main)
+- <b>Azure/Microsft Entra ID/AD</b>
   - [Microsoft Entra ID User Creation](https://github.com/ervtripp/Microsoft-Entra-ID-Tenant-User-Creation/)
-    
+  - [Active Directory Setup](https://github.com/ervtripp/ActiveDirectoryLab/tree/main)
+- <b>Security</b>
+  - [Splunk Lab - Input Data & Dashboards](https://github.com/ervtripp/SplunkLab1/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
